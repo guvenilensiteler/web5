@@ -4,18 +4,6 @@
     "logo": "https://enguvenilensiteler.com/logo.png",
     "sites": [
       {
-        "url": "https://cutt.ly/keoHhJpQ",
-        "desc": [
-          "250TL DENEME BONUSU"
-        ],
-        "site": "tipobet",
-        "sort": null,
-        "color": "#0f853d",
-        "miktar": "₺250",
-        "promo_code": null,
-        "slider_img": ""
-      },
-      {
         "url": "https://cutt.ly/0ei03h7d",
         "desc": [
           "555TL DENEME BONUSU"
@@ -29,45 +17,6 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/IeoqYGE0",
-        "desc": [
-          "300TL DENEME BONUSU"
-        ],
-        "site": "bycasino",
-        "sort": null,
-        "color": "#f60",
-        "miktar": "₺300",
-        "promo_code": null,
-        "promo_code_yok": "İLK 3 YATIRIMA %100 HOŞGELDİN BONUSU",
-        "slider_img": ""
-      },
-      {
-        "url": "https://cutt.ly/geoqYijf",
-        "desc": [
-          "300TL DENEME BONUSU"
-        ],
-        "site": "starzbet",
-        "sort": null,
-        "color": "#5085ff",
-        "miktar": "₺300",
-        "promo_code": null,
-        "promo_code_yok": "İLK 3 YATIRIMA %100 HOŞGELDİN BONUSU",
-        "slider_img": ""
-      },
-      {
-        "url": "https://cutt.ly/HeoHTjmw",
-        "desc": [
-          "500TL DENEME BONUSU"
-        ],
-        "site": "zbahis",
-        "sort": null,
-        "color": "#1bcfdb",
-        "miktar": "₺500",
-        "promo_code": null,
-        "slider_img": ""
-      },
-      
-      {
         "url": "https://cutt.ly/pei00y6j",
         "desc": [
           "555TL DENEME BONUSU"
@@ -80,26 +29,38 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/seoHVCDs",
+        "url": "https://bit.ly/perabetgrs",
         "desc": [
-          "250TL DENEME BONUSU"
+          ""
         ],
-        "site": "sahabet",
+        "site": "perabet",
         "sort": null,
-        "color": "#008000",
-        "miktar": "₺250",
+        "color": "#18cf5f",
+        "miktar": "₺333",
         "promo_code": null,
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/teoHbW6s",
+        "url": "https://bit.ly/delikenanxslot",
         "desc": [
-          "250TL DENEME BONUSU"
+          "500₺ veya 500 freespin"
         ],
-        "site": "onwin",
+        "site": "xslot",
         "sort": null,
-        "color": "#c612ab",
-        "miktar": "₺250",
+        "color": "#2dbcb4",
+        "miktar": "₺500",
+        "promo_code": null,
+        "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/delikenanbetturkey",
+        "desc": [
+          "500₺ veya 500 freespin"
+        ],
+        "site": "betturkey",
+        "sort": null,
+        "color": "#ffdd3a",
+        "miktar": "₺500",
         "promo_code": null,
         "slider_img": ""
       },
@@ -118,14 +79,14 @@
     ],
     "social": {
       "kick": null,
-      "skype": "https://join.skype.com/invite/xCduE54krnw3",
-      "twitch": "https://www.twitch.tv/ogedayprolive",
-      "discord": "https://discord.gg/7pqkyPw6",
-      "twitter": "https://twitter.com/ogedaypro",
-      "youtube": "https://www.youtube.com/@ogedaypro",
+      "skype": null,
+      "twitch": null,
+      "discord": null,
+      "twitter": null,
+      "youtube": null,
       "facebook": null,
-      "telegram": "https://t.me/ogedayprochat",
-      "instagram": "instagram://user?username=herguntakipcimkadarbahis"
+      "telegram": null,
+      "instagram": null
     },
     "cdn_url": "https://enguvenilensiteler.com/",
     "is_slider": true,
@@ -312,40 +273,28 @@
         "sort": "4",
         "sites": [
           {
-            "site": "tipobet",
+            "site": "fixbet",
             "sort": "1"
           },
           {
-            "site": "fixbet",
+            "site": "matadorbet",
             "sort": "2"
           },
           {
-            "site": "bycasino",
+            "site": "perabet",
             "sort": "3"
           },
           {
-            "site": "starzbet",
+            "site": "xslot",
             "sort": "4"
           },
           {
-            "site": "zbahis",
+            "site": "betturkey",
             "sort": "5"
           },
           {
-            "site": "matadorbet",
+            "site": "supertoto",
             "sort": "6"
-          },
-          {
-            "site": "sahabet",
-            "sort": "7"
-          },
-          {
-            "site": "onwin",
-            "sort": "8"
-          },
-          {
-            "site": "supertotobet",
-            "sort": "9"
           }
         ]
       },
