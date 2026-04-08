@@ -1,92 +1,78 @@
 {
   "status": true,
   "html": {
-    "logo": "https://enguvenilensiteler.com/logo.png",
+    "logo": "",
     "sites": [
       {
-        "url": "https://cutt.ly/0ei03h7d",
+        "url": "https://cutt.ly/0rgXGTUL",
         "desc": [
-          "555TL DENEME BONUSU"
-        ],
-        "site": "fixbet",
-        "sort": null,
-        "color": "#adf01f",
-        "miktar": "₺555",
-        "promo_code": null,
-        "promo_code_yok": "5 DAKİKADA ÇEKİM LİMİTSİZ KAZANÇ",
-        "slider_img": ""
-      },
-      {
-        "url": "https://cutt.ly/pei00y6j",
-        "desc": [
-          "555TL DENEME BONUSU"
-        ],
-        "site": "matadorbet",
-        "sort": null,
-        "color": "#fb0009",
-        "miktar": "₺555",
-        "promo_code2": "%200 6000 TL HOSGELDİN BONUSU",
-        "slider_img": ""
-      },
-      {
-        "url": "https://bit.ly/perabetgrs",
-        "desc": [
-          ""
-        ],
-        "site": "perabet",
-        "sort": null,
-        "color": "#18cf5f",
-        "miktar": "₺333",
-        "promo_code": null,
-        "slider_img": ""
-      },
-      {
-        "url": "https://bit.ly/delikenanxslot",
-        "desc": [
-          "500₺ veya 500 freespin"
-        ],
-        "site": "xslot",
-        "sort": null,
-        "color": "#2dbcb4",
-        "miktar": "₺500",
-        "promo_code": null,
-        "slider_img": ""
-      },
-      {
-        "url": "https://bit.ly/delikenanbetturkey",
-        "desc": [
-          "500₺ veya 500 freespin"
-        ],
-        "site": "betturkey",
-        "sort": null,
-        "color": "#ffdd3a",
-        "miktar": "₺500",
-        "promo_code": null,
-        "slider_img": ""
-      },
-      {
-        "url": "https://cutt.ly/leo30c9A",
-        "desc": [
-          "400TL DENEME BONUSU"
-        ],
-        "site": "supertotobet",
-        "sort": null,
-        "color": "#ff003c",
-        "miktar": "₺400",
-        "promo_code": null,
-        "slider_img": ""
-      },
-      {
-        "url": "https://cutt.ly/xeczedxW",
-        "desc": [
-          "1.111 TL DENEME BONUSU"
+          "HEMEN ÜYE OL 2.025₺"
         ],
         "site": "bankobet",
         "sort": null,
         "color": "#ff1376",
-        "miktar": "₺1.111",
-        "promo_code": null,
-        "promo_code_yok": "",
+        "miktar": "₺2.025",
+        "promo_code_yok": "DENEME BONUSU AL",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/MrgXHoTc",
+        "desc": [
+          "HEMEN ÜYE OL 2.000₺"
+        ],
+        "site": "betewin",
+        "sort": null,
+        "color": "#ff8d14",
+        "miktar": "₺2.000",
+        "promo_code_yok": "DENEME BONUSU AL",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/HrgXGpCC",
+        "desc": [
+          "HEMEN ÜYE OL 2.000₺"
+        ],
+        "site": "betkom",
+        "sort": null,
+        "color": "#1fe0ff",
+        "miktar": "₺2.000",
+        "promo_code_yok": "DENEME BONUSU AL",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ZrgXHIaR",
+        "desc": [
+          "HEMEN ÜYE OL 1.500₺"
+        ],
+        "site": "tarafbet",
+        "sort": null,
+        "color": "#178b42",
+        "miktar": "₺1.500",
+        "promo_code_yok": "DENEME BONUSU AL",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/nrgXGwWy",
+        "desc": [
+          "HEMEN ÜYE OL 1.000₺"
+        ],
+        "site": "bahiscom",
+        "sort": null,
+        "color": "#00c683",
+        "miktar": "₺1.000",
+        "promo_code_yok": "DENEME BONUSU AL",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/wrgXG4VT",
+        "desc": [
+          "HEMEN ÜYE OL 1.000₺"
+        ],
+        "site": "mariobet",
+        "sort": null,
+        "color": "#f16227",
+        "miktar": "₺1.000",
+        "promo_code_yok": "DENEME BONUSU AL",
         "slider_img": ""
       }
     ],
@@ -178,44 +164,28 @@
         "sort": "3",
         "sites": [
           {
-            "site": "tipobet",
+            "site": "bankobet",
             "sort": "1"
           },
           {
-            "site": "fixbet",
+            "site": "betewin",
             "sort": "2"
           },
           {
-            "site": "bycasino",
+            "site": "betkom",
             "sort": "3"
           },
           {
-            "site": "starzbet",
+            "site": "tarafbet",
             "sort": "4"
           },
           {
-            "site": "zbahis",
+            "site": "bahiscom",
             "sort": "5"
           },
           {
-            "site": "matadorbet",
+            "site": "mariobet",
             "sort": "6"
-          },
-          {
-            "site": "sahabet",
-            "sort": "7"
-          },
-          {
-            "site": "onwin",
-            "sort": "8"
-          },
-          {
-            "site": "supertotobet",
-            "sort": "9"
-          },
-          {
-            "site": "bankobet",
-            "sort": "10"
           }
         ]
       },
@@ -290,32 +260,48 @@
         "sort": "4",
         "sites": [
           {
-            "site": "fixbet",
-            "sort": "1"
+            "site": "pusulabet",
+            "sort": "8"
           },
           {
-            "site": "matadorbet",
-            "sort": "2"
+            "site": "lgbahis",
+            "sort": "11"
           },
           {
-            "site": "perabet",
-            "sort": "3"
+            "site": "masterbetting",
+            "sort": "9"
           },
           {
-            "site": "xslot",
-            "sort": "4"
+            "site": "piabet",
+            "sort": "10"
           },
           {
-            "site": "betturkey",
+            "site": "klasbahis",
             "sort": "5"
           },
           {
-            "site": "supertotobet",
+            "site": "monobahis",
             "sort": "6"
           },
           {
-            "site": "bankobet",
+            "site": "caddebet",
             "sort": "7"
+          },
+          {
+            "site": "betorspin",
+            "sort": "2"
+          },
+          {
+            "site": "meybet",
+            "sort": "1"
+          },
+          {
+            "site": "betpipo",
+            "sort": "3"
+          },
+          {
+            "site": "betturkey",
+            "sort": "4"
           }
         ]
       },
